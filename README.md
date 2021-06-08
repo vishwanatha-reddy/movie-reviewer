@@ -34,3 +34,7 @@ Application displays the name and rating of the top rated movie added into the a
 
 ![image](https://user-images.githubusercontent.com/84494799/121175276-80f36e80-c878-11eb-9dce-172ef0fc3ffc.png)
 
+### 6. Users will be able to sort these movies alphabatically by their name / ascending & descending order of the movie rating:
+
+![image](https://user-images.githubusercontent.com/84494799/121176035-6241a780-c879-11eb-8daa-bb1a0db32abb.png)
+
