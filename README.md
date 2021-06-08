@@ -38,3 +38,25 @@ Application displays the name and rating of the top rated movie added into the a
 
 ![image](https://user-images.githubusercontent.com/84494799/121176035-6241a780-c879-11eb-8daa-bb1a0db32abb.png)
 
+## Tech Stack used for building the application::
+
+React JS (view library).
+
+Redux (state management).
+
+JavaScript.
+
+BootStrap (styling CSS framework).
+
+
+Heorku (for hosting).
+
+## Third party NPM Packages used in the application for implementing different functionalities:
+
+1.	react-redux.
+2.	react-select.
+3.	uuid
+4.	lodash
+
+Thanks for reading till the end, hope you liked the project. :)
+
