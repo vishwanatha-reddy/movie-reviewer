@@ -12,13 +12,15 @@ Application Demo (live link): https://top-movies-rating.herokuapp.com/
 
 Users can add movies and their ratings using the form.
 
-![image](https://user-images.githubusercontent.com/84494799/121169061-3e7a6380-c871-11eb-958e-6f651decf518.png)
+![image](https://user-images.githubusercontent.com/84494799/122012036-5ce4df80-cdda-11eb-9f10-7f4760420b15.png)
+
 
 ### 2. Movies listing:
 
 Movies that are added will be displayed in the centre of the application.
 
-![image](https://user-images.githubusercontent.com/84494799/121174468-93b97380-c877-11eb-82e7-3dbf58f30e47.png)
+![image](https://user-images.githubusercontent.com/84494799/122012274-9d445d80-cdda-11eb-9533-3d9f9e5267c3.png)
+
 
 ### 3. Best Movie Stat:
 
