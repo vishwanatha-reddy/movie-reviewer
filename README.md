@@ -26,19 +26,22 @@ Movies that are added will be displayed in the centre of the application.
 
 Application displays the name and rating of the top rated movie added into the application, so far.
 
-![image](https://user-images.githubusercontent.com/84494799/121174743-df6c1d00-c877-11eb-8d70-c8f04579006b.png)
+![image](https://user-images.githubusercontent.com/84494799/122012843-3bd0be80-cddb-11eb-9f8b-9b99780f9e33.png)
 
 ### 4. Users will be able to serach for a specific movie, via the search field, which will perform a filter operation and display the matching movie to the text entered:
 
-![image](https://user-images.githubusercontent.com/84494799/121174993-31ad3e00-c878-11eb-9b34-3ffa376071dd.png)
+![image](https://user-images.githubusercontent.com/84494799/122013509-dd581000-cddb-11eb-85e9-822a6f3e3009.png)
+
 
 ### 5. Movies will be removable using the delete button, present at the bottom right corner of each movie card.
 
-![image](https://user-images.githubusercontent.com/84494799/121175276-80f36e80-c878-11eb-9dce-172ef0fc3ffc.png)
+![image](https://user-images.githubusercontent.com/84494799/122013650-024c8300-cddc-11eb-9a5d-af5ca2b6865c.png)
+
 
 ### 6. Users will be able to sort these movies alphabatically by their name / ascending & descending order of the movie rating:
 
-![image](https://user-images.githubusercontent.com/84494799/121176035-6241a780-c879-11eb-8daa-bb1a0db32abb.png)
+![image](https://user-images.githubusercontent.com/84494799/122013763-1db78e00-cddc-11eb-9734-721540f97832.png)
+
 
 ## Tech Stack used for building the application::
 
